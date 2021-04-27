@@ -1,0 +1,10 @@
+﻿Max_accuracy_Test_on_Testset: 93 %
+Training_accuracy: 97 %
+Validation_acc_train:91 %
+Classification_loss_train: 0.04
+L2_Weight_decay_loss: 0.02
+Examples_seen: 72900
+Forward_time_per_example: 35
+Backprop_time_per_example: 55
+Start_time_train: 16-4-2021---17h 8m 47s
+End_time_train: 16-4-2021---19h 32m 51s
